@@ -1,7 +1,18 @@
-div {
+header {
     background-color: rgb(96, 157, 159);
 }
+#logoAP {
+    margin-left: 2em;
+    width: 150px;
+}
+#logoInti {
+    width: 230px;
+}
 
-app-social {
-    float: right;
+.social {
+    width: 50px;
+}
+
+.sign-up {
+    margin-right: 2em;
 }

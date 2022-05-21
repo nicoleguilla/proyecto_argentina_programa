@@ -8,3 +8,6 @@ div {
     font-weight: bold;
     display: inline;
 }
+.title { 
+    text-align: center;
+}

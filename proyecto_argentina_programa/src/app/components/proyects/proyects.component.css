@@ -15,3 +15,7 @@ part-1, part-2 {
 .img-proyect {
     box-shadow: 1px 1px 10px #3a3737;
 }
+
+.title { 
+    text-align: center;
+}
